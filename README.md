@@ -24,8 +24,6 @@ This is the **TYPESCRIPT** implementation of the original [**react-boilerplate**
 
 ---
 
-Boilerplate version: [**`4.1`**](https://github.com/react-boilerplate/react-boilerplate-typescript/releases)
-
 ## Getting Started & Features & Documentations and More...
 
 You can find all the documentation in the original [**react-boilerplate**](https://github.com/react-boilerplate/react-boilerplate)
